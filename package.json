@@ -1,7 +1,7 @@
 {
     "name": "quotation",
     "version": "0.1.0",
-    "private": true,
+    "private": false,
     "homepage": "react-midterm-quotation",
     "dependencies": {
       "@rehooks/local-storage": "^2.4.4",
