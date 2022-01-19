@@ -12,7 +12,6 @@ function App() {
   const qtyRef = useRef();
   const disRef = useRef();
 
-  // const [dataItems, setDataItems] = useState([]);
   const [dataItems, setDataItems] = useLocalStorage("dataItems",[]);
   
 
