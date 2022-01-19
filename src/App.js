@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";
+import React, { useRef } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import QuotationTable from "./QuotationTable";
 
